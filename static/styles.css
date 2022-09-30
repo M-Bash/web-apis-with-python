@@ -15,6 +15,8 @@
     margin: 0 auto;
     max-width: 482px;
     margin-bottom: 1em;
+    padding-left: 30px;
+    padding-right: 30px;
 
 }
 
@@ -51,6 +53,8 @@ button {
     text-align: center;
     cursor: pointer;
     color: #5F6368;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 button:hover {
